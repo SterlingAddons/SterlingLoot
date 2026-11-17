@@ -3,11 +3,17 @@
 Tag: `v<version>`
 Title: `Sterling Loot Tracker <version>`
 Attach: `SterlingLoot-<version>.zip` and `release.json`
+ship.cmd needs both headings below, or it stops before releasing.
 
 ---
 
-<One or two lines on every change since the last release.>
+## What's new
 
-Install or update through WowUp: https://github.com/SterlingAddons/SterlingLoot
+- <One line for each change since the last release.>
 
-Also from Sterling: [Sterling Quest Sync](https://github.com/SterlingAddons/SterlingQuest) and its optional Sterling Quest Sync Companion app.
+## Install or update
+
+- **WowUp:** updates on its own. First time: Get Addons > Install from URL > https://github.com/SterlingAddons/SterlingLoot
+- **Manual:** unzip SterlingLoot-<version>.zip into _forever_\Interface\AddOns, then restart the game.
+
+Personal add-on, no support.
