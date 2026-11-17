@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.png" width="128" alt="Sterling Loot Tracker icon"></p>
+
 # Sterling Loot Tracker
 
 A WoW Forever add-on that shows who picked Need, Greed or Pass on every roll, keeps a roll history grouped by dungeon or zone, and remembers where your gear came from.
