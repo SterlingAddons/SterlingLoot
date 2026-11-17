@@ -64,6 +64,7 @@ Or download the zip from [Releases](https://github.com/SterlingAddons/SterlingLo
 ## More from Sterling
 
 - [Sterling Quest Sync](https://github.com/SterlingAddons/SterlingQuest) (formerly Sterling Quest Tracker): follow a friend's session and keep quest logs in sync. Works with the optional **Sterling Quest Sync Companion** app.
+- [Sterling Hunter](https://github.com/SterlingAddons/SterlingHunter): ammo auto-buy, low ammo warnings and an aspect reminder for hunters.
 
 ## License
 
